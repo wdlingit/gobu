@@ -4,4 +4,4 @@ Gene Ontology Browsing Utility (hereinafter, GOBU, pronounced as "go-boo") is a 
 2. Data Integration, and
 3. Extendable User Interface.
 
-This repository is currently for [gobu](https://sourceforge.net/projects/gobu/) at SF. We would setup manual pages here first, and then programs.
+This repository is currently for [gobu](https://sourceforge.net/projects/gobu/) at SourceForge. We would setup manual pages here first, and then programs.
